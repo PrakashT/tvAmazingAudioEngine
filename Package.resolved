@@ -1,12 +1,12 @@
 {
   "pins" : [
     {
-      "identity" : "tvDeviceLibETest",
+      "identity" : "tvdevicelibetmp",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tvipadmin/tvDeviceLibETest.git",
+      "location" : "https://github.com/PrakashT/tvDeviceLibETMP",
       "state" : {
         "branch" : "main",
-        "revision" : "ea73678d39008de65669c630a1f06c7b39f6b5cb"
+        "revision" : "99990f879dfae5d7d350fcf72e70442fc2d602d7"
       }
     }
   ],

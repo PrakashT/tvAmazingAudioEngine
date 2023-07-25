@@ -6,7 +6,7 @@
 //
 //
 
-//@import tvDeviceLibETest;
+//@import tvDeviceLibETMP
 #import "EDDataPlot.h"
 //#import "tvDeviceLibETest.h"
 
