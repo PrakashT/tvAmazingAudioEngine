@@ -6,9 +6,9 @@
 //
 //
 
-//@import tvDeviceLibE;
+//@import tvDeviceLibETest;
 #import "EDDataPlot.h"
-//#import "tvDeviceLibE.h"
+//#import "tvDeviceLibETest.h"
 
 // Bluetooth (get constant)
 #import <EDBluetoothSDK/EDBluetooth.h>

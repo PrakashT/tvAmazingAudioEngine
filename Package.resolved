@@ -1,9 +1,9 @@
 {
   "pins" : [
     {
-      "identity" : "tvdevicelibe",
+      "identity" : "tvDeviceLibETest",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tvipadmin/tvDeviceLibE.git",
+      "location" : "https://github.com/tvipadmin/tvDeviceLibETest.git",
       "state" : {
         "branch" : "main",
         "revision" : "ea73678d39008de65669c630a1f06c7b39f6b5cb"
