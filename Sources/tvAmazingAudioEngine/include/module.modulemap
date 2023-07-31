@@ -1,3 +1,3 @@
 module tvAmazingAudioEngine {
-    header "tvAmazingAudioEngine.h"
+    header "tvAmazingAudioEngines.h"
 }
