@@ -13,6 +13,7 @@
 //#import <tvAmazingAudioEngine.h>
 //#import <AWPSDK/EDDataPlot.h>
 #import "EDDataPlot.h"
+#import "EDAudioControllerManager.h"
 
 //NS_ASSUME_NONNULL_BEGIN
 
