@@ -11,7 +11,7 @@
 
 #import <Foundation/Foundation.h>
 #import <tvAmazingAudioEngine.h>
-#import <AWPSDK/EDDataPlot.h>
+#import "EDDataPlot.h"
 
 
 #endif /* tvAmazingAudioEngine_h */
