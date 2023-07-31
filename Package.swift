@@ -25,11 +25,11 @@ let package = Package(
             name: "tvAmazingAudioEngine",
             dependencies: ["tvDeviceLibETMP"],
 //            path: "Sources/tvAmazingAudioEngine/",
-            publicHeadersPath: "include"//,
-//            cSettings: [
-//                .headerSearchPath("."),
-//                .define("tvAmazingAudioEngine")
-//            ]
+            publicHeadersPath: "include",
+            cSettings: [
+                .headerSearchPath("."),
+                .define("tvAmazingAudioEngine")
+            ]
         ),
         .testTarget(
             name: "tvAmazingAudioEngineTests",
