@@ -11,4 +11,6 @@
 
 @implementation tvAmazingAudioEngines
 
+EDDataPlot *test;
+
 @end
