@@ -1,0 +1,3 @@
+module tvAmazingAudioEngine {
+    header "tvAmazingAudioEngine.h"
+}
