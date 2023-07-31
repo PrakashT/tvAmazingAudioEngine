@@ -1,3 +1,4 @@
 module tvAmazingAudioEngine {
-    header "tvAmazingAudioEngines.h"
+    header "EDAudioControllerManager.h"
+    header "EDDataPlot.h"
 }
