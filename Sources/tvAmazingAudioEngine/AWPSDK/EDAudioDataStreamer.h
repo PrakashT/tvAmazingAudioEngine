@@ -11,6 +11,7 @@
 #import <EDBluetoothSDK/EDBluetoothSDK.h>
 
 @protocol EDAudioDataStreamerDelegate <NSObject>
+
 @optional
 - (void) dataStreamerOutputtedAudioValue: (short) audioValue withAudioFilterChannel: (EDAudioFilterChannel) audioFilterChannel audioResolution: (int) audioResolution;
 @end
